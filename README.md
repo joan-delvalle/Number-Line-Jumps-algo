@@ -1,1 +1,1 @@
-# Number-Line-Jumps-algo
+# Number-Line-Jumps-algo The program checks if two kangaroos starting at different positions (x1, x2) and jumping at different speeds (v1, v2) will ever land on the same spot after the same number of jumps. It uses math to check if the distance between them can be evenly closed by their jump difference. If yes, it prints "YES", otherwise "NO".
